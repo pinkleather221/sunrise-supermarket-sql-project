@@ -1,6 +1,6 @@
 # Sunrise Supermarket SQL Project
 
-A beginner-friendly PostgreSQL project that builds a complete supermarket database from scratch. This repository demonstrates how to design relational tables, insert sample data, update records, filter data, summarize results, and join related tables.
+A beginner-friendly PostgreSQL project that builds a complete supermarket database from scratch. This repository demonstrates how to design relational tables, insert sample data, update records, filter data, summarize results, and join related tables.https://dev.to/nelly_mogere_194bac0cb2ba/sql-beginner-project-build-a-real-world-supermarket-database-with-postgresql-4e7a
 
 ## Project Overview
 
